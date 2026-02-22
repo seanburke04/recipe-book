@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Mac and Cheese",
+    "url": "recipes/mac-and-cheese.html",
+    "tags": ["pasta", "dinner", "American"]
+  },
+  {
+    "title": "Caramel Candy",
+    "url": "recipes/caramel.html",
+    "tags": ["dessert"]
+  }
+]
