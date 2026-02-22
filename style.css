@@ -1,12 +1,19 @@
 body {
     font-family: Arial, sans-serif;
     max-width: 700px;
-    margin: 40px auto;
+    margin: 20px auto;
+    padding: 0 15px;
     line-height: 1.6;
+    font-size: 1rem;
 }
 
 h1 {
+    font-size: 2rem;
     text-align: center;
+}
+
+h2 {
+    font-size: 1.5rem;
 }
 
 a {
@@ -22,4 +29,26 @@ input {
 
 html {
     scroll-behavior: smooth;
+}
+
+ul li {
+    padding: 12px 0;
+}
+
+@media screen and (max-width: 500px) {
+    body {
+        font-size: 1.2rem;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    h2 {
+        font-size: 1.7rem;
+    }
+
+    input {
+        font-size: 1rem;
+    }
 }
