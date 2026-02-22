@@ -20,6 +20,11 @@
     "tags": ["dessert", "chocolate"]
   },
   {
+    "title": "Cowboy Sliders",
+    "url": "recipes/cowboy-sliders.html",
+    "tags": ["sliders", "American", "burger"]
+  },
+  {
     "title": "Cowboy Butter",
     "url": "recipes/cowboy-butter.html",
     "tags": ["butter", "American"]
