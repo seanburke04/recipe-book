@@ -13,5 +13,10 @@
     "title": "Chimichurri",
     "url": "recipes/chimichurri.html",
     "tags": ["Argentinian", "herbs", "sauce", "meats"]
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "url": "recipes/chocolate-chip-cookies.html",
+    "tags": ["dessert", "chocolate"]
   }
 ]
