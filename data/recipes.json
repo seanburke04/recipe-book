@@ -8,5 +8,10 @@
     "title": "Caramel Candy",
     "url": "recipes/caramel.html",
     "tags": ["dessert"]
+  },
+  {
+    "title": "Chimichurri",
+    "url": "recipes/chimichurri.html",
+    "tags": ["Argentinian", "herbs", "sauce", "meats"]
   }
 ]
