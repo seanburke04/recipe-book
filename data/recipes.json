@@ -18,5 +18,10 @@
     "title": "Chocolate Chip Cookies",
     "url": "recipes/chocolate-chip-cookies.html",
     "tags": ["dessert", "chocolate"]
+  },
+  {
+    "title": "Cowboy Butter",
+    "url": "recipes/cowboy-butter.html",
+    "tags": ["butter", "American"]
   }
 ]
