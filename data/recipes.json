@@ -28,5 +28,10 @@
     "title": "Cowboy Butter",
     "url": "recipes/cowboy-butter.html",
     "tags": ["butter", "American"]
+  },
+  {
+    "title": "Spring Onion Dip",
+    "url": "recipes/spring-onion-dip.html",
+    "tags": ["dip", "American", "party"]
   }
 ]
