@@ -33,5 +33,10 @@
     "title": "Spring Onion Dip",
     "url": "recipes/spring-onion-dip.html",
     "tags": ["dip", "American", "party"]
+  },
+  {
+    "title": "Chicken Tortilla Soup",
+    "url": "recipes/chicken-tortilla-soup.html",
+    "tags": ["soup", "Mexican", "easy"]
   }
 ]
